@@ -1,0 +1,11 @@
+# Twenty AI Revenue Room
+
+Twenty AI Revenue Room is a SaaS workspace for Twenty CRM.
+
+Website: https://twentyrevenue.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Twenty CRM
+Type: SaaS
+Default plan: growth
+
+Public boundary: docs-only repository; no production source code or secrets.
